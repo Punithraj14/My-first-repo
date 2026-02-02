@@ -5,12 +5,13 @@ Smart dustbin using ultrasonic sensor
 Automatically opens the dustbin lid when someone approaches.
 Uses an ultrasonic sensor to detect distance and a servo motor to open/close the lid.
 
-Components
+Components:
 
 Arduino Uno
 Ultrasonic Sensor (HC-SR04)
 Servo Motor (SG90)
 Jumper Wires, Breadboard
+
 
 Code (smart_dustbin.ino)
 #include <Servo.h>
